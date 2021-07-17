@@ -13,6 +13,4 @@ func main() {
 	quilometros = 150
 
 	fmt.Println(quilometros)
-
-	// Exercicio 2
 }
